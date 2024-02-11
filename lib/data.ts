@@ -36,10 +36,10 @@ export const links = [
 
 export const experiencesData = [
 	{
-		title: "Data Analytics",
-		location: "Omdena Local Chapter",
+		title: "Front end Developer Intern",
+		location: "Mydukan (Digiretail Software India Pvt Ltd)",
 		description:
-			"Contriuted to the Omdena local chapter's community open source project. I worked on Data analytics team where i was responsible for gathering and analyzing satellite data",
+			"Developed responsive frontends for the company’s dashboard and app using React and Tailwind CSS (Designed 10+ pages and integrated APIs). Enhanced performance by 30% by rewriting code from Iconic framework to React Native.",
 		icon: React.createElement(CgWorkAlt),
 		date: "Feb. 2023 - March. 2023",
 	},
@@ -47,7 +47,7 @@ export const experiencesData = [
 		title: "Software Engineer Intern",
 		location: "Techwhoop, India",
 		description:
-			"I worked as a software engineer intern at a samll company. I mainly worked with cloud services and web development. Delpoyed sereral projects on Google cloud and Heroku using Docker.",
+			"Assisted in deploying and maintaining 5+ applications on cloud platforms (Google Cloud, Heroku), Optimized Python and Node.js apps for production, containerized them, and deployed them using Docker, resulting in a 30% performance boost and up to 20% cost savings.",
 		icon: React.createElement(CgWorkAlt),
 		date: "Nov. 2022 - Jan. 2023",
 	},
@@ -65,7 +65,7 @@ export const projectsData = [
 	{
 		title: "Caption Generator",
 		description:
-			"myCaption is a web app that generates captions for Instagram and Short from content. It uses a AWS services to generate captions for theh video.",
+			"myCaption is a web app that generates captions for Instagram and Short from content. It uses AWS services to generate captions for the video.",
 		tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma", "AWS"],
 		imageUrl: captionGenerator,
 	},
