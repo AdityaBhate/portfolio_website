@@ -52,6 +52,14 @@ export const experiencesData = [
 		date: "Nov. 2022 - Jan. 2023",
 	},
 	{
+		title: "Full Stack Developer Intern",
+		location: "Provoke Developers, India",
+		description:
+			"Developing Responsive Frontend for the company’s platform using Next.js and Tailwind CSS. Worked with Firebase and Next.js for building a content storage platform",
+		icon: React.createElement(CgWorkAlt),
+		date: "April. 2022 - May. 2023",
+	},
+	{
 		title: "Computer Science Student",
 		location: "VIT Bhopal, India",
 		description:
