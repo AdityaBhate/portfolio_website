@@ -34,20 +34,20 @@ export const links = [
 
 export const experiencesData = [
 	{
-		title: "Freelancer",
-		location: "Remote, India",
-		description:
-			"Worked with clients across India using Next.js to build responsive websites and platforms.",
-		icon: React.createElement(CgWorkAlt),
-		date: "2023 - Present",
-	},
-	{
 		title: "SDE Intern",
 		location: "Quantiota, France",
 		description:
 			"Working on frontend development using HTML, CSS, JS, React, and Python. Also contributing to AWS services integration.",
 		icon: React.createElement(CgWorkAlt),
-		date: "2023 - Present",
+		date: "Oct. 2023 - Present",
+	},
+	{
+		title: "Freelancer",
+		location: "Remote, India",
+		description:
+			"Worked with clients across India using Next.js to build responsive websites and platforms.",
+		icon: React.createElement(CgWorkAlt),
+		date: "2023",
 	},
 	{
 		title: "Lead Next.js Developer",
@@ -55,7 +55,7 @@ export const experiencesData = [
 		description:
 			"Leading frontend development for a real estate and lending startup, building robust Next.js platforms.",
 		icon: React.createElement(CgWorkAlt),
-		date: "2023 - Present",
+		date: "April 2023 - June 2023",
 	},
 	{
 		title: "Front end Developer Intern",
